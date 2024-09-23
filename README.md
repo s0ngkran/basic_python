@@ -181,3 +181,27 @@ num = int(input("Enter a number: "))
 n = int(input("Enter a positive integer: "))
 # code here
 ```
+
+### question 11
+```python
+'''
+Write a Python program that asks the user to input numbers continuously. The program should:
+
+Stop asking for input if the user enters the number 0 (use break to exit the loop).
+Skip negative numbers and ask for input again without processing them (use continue for this).
+Add all the positive numbers entered by the user and print the total when the loop ends.
+
+# Example
+
+Enter a number: 5
+Enter a number: -3 (skipped)
+Enter a number: 2
+Enter a number: 0
+Total sum of positive numbers: 7
+'''
+# Hint: using break and continue
+
+while True:
+    n = int(input('Enter a number: '))
+    ###
+```
