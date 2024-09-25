@@ -205,3 +205,51 @@ while True:
     n = int(input('Enter a number: '))
     ###
 ```
+
+### question 12
+```python
+# Enter a string: Hello World
+# Vowels: 3
+# Consonants: 7
+# hint: 'a', 'e', 'i', 'o', 'u' is vowels
+```
+
+### question 13
+```python
+# Enter a string: Python
+# Reversed string: nohtyP
+```
+
+### quesiton 14
+```python
+# Enter a string: Hello World
+# String without vowels: Hll Wrld
+```
+
+### question 15
+```python
+# Enter a word (or 'q' to quit): apple
+# Enter a word (or 'q' to quit): banana
+# Enter a word (or 'q' to quit): q
+# Program stopped.
+```
+
+### question 16
+```python
+# guessing odd or even game
+# - ask user odd or even?
+# - check ans
+# - count score
+# - play again; if end, print score
+```
+
+### question 17
+```python
+# rock, paper, scissors game
+# - random.choice(list)
+# - turn count
+# - player win +player_score
+# - com win +com_score
+# - end game
+# - sumarize result
+```
