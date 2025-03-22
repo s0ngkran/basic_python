@@ -1,5 +1,5 @@
 
-### question 1
+### Question 1
 ```python
 # Write a program that asks the user to input their age.
 # If the age is 18 or older, print "You are eligible to vote."
@@ -13,7 +13,7 @@ age = int(input("Enter your age: "))
 # code here
 ```
 
-### question 2
+### Question 2
 ```python
 # Write a program that takes an integer input from the user
 # and checks if it is even or odd. Print "Even" if the number is
@@ -28,7 +28,7 @@ num = int(input("Enter a number: "))
 # code here
 ```
 
-### question 3
+### Question 3
 ```python
 # Write a program that takes two integers as input, a start and an end.
 # Use a for-loop to sum all the numbers from start to end (inclusive),
@@ -45,7 +45,7 @@ total = 0
 # code here
 ```
 
-### question 4
+### Question 4
 ```python
 # Write a program that asks the user for 5 integers, one by one, 
 # and finds the largest number among them using a for-loop.
@@ -61,7 +61,7 @@ for i in range(5):
     # code here
 ```
 
-### question 5
+### Question 5
 ```python
 # Write a program that takes an integer input from the user and prints
 # the multiplication table for that number from 1 to 10 using a for-loop.
@@ -79,7 +79,7 @@ num = int(input("Enter a number: "))
 # code here
 ```
 
-### question 6
+### Question 6
 ```python
 # Write a program that takes an integer input from the user
 # and prints the sum of all even numbers between 1 and that number (inclusive).
@@ -98,7 +98,7 @@ num = int(input("Enter a number: "))
 # code here
 ```
 
-### question 7
+### Question 7
 ```python
 # Write a program that asks the user to input a word.
 # Then, use a for-loop to print each character of the word on a new line.
@@ -117,7 +117,7 @@ word = input("Enter a word: ")
 # code here
 ```
 
-### question 8
+### Question 8
 ```python
 # Write a program that takes an integer input from the user
 # and prints "Prime" if the number is a prime number, otherwise print "Not Prime."
@@ -135,7 +135,7 @@ num = int(input("Enter a number: "))
 # code here
 ```
 
-### question 9
+### Question 9
 ```python
 def is_prime(n):
     # Numbers less than or equal to 1 are not prime
@@ -163,7 +163,7 @@ num = int(input("Enter a number: "))
 # code here
 ```
 
-### question 10
+### Question 10
 ```python
 # Write a program that asks the user for a positive integer n.
 # Use a for-loop to print the factorial of the number.
@@ -182,7 +182,7 @@ n = int(input("Enter a positive integer: "))
 # code here
 ```
 
-### question 11
+### Question 11
 ```python
 '''
 Write a Python program that asks the user to input numbers continuously. The program should:
@@ -206,7 +206,7 @@ while True:
     ###
 ```
 
-### question 12
+### Question 12
 ```python
 # Enter a string: Hello World
 # Vowels: 3
@@ -214,7 +214,7 @@ while True:
 # hint: 'a', 'e', 'i', 'o', 'u' is vowels
 ```
 
-### question 13
+### Question 13
 ```python
 # Enter a string: Python
 # Reversed string: nohtyP
@@ -226,7 +226,7 @@ while True:
 # String without vowels: Hll Wrld
 ```
 
-### question 15
+### Question 15
 ```python
 # Enter a word (or 'q' to quit): apple
 # Enter a word (or 'q' to quit): banana
@@ -234,7 +234,7 @@ while True:
 # Program stopped.
 ```
 
-### question 16
+### Question 16
 ```python
 # guessing odd or even game
 # - ask user odd or even?
@@ -243,7 +243,7 @@ while True:
 # - play again; if end, print score
 ```
 
-### question 17
+### Question 17
 ```python
 # rock, paper, scissors game
 # - random.choice(list)
